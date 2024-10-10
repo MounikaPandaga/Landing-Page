@@ -1,2 +1,2 @@
 # Landing-Page
-@oasis infobyte
+@oasis Infobyte
